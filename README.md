@@ -26,8 +26,8 @@ It demonstrates API integration and data processing in Python.
 
 ```text
 news-reader/
-├── main.py              # App entry point
-├──news_req.txt
+├── main.py              # main program
+├──news_req.txt          # Requirement text file
 └── README.md
 ```
 
