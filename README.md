@@ -35,7 +35,7 @@ news-reader/
 
 ## Setup and Run
 
-git clone https://github.com/<Akash4145>/News Reader.git >> 
+git clone https://github.com/Akash4145/News Reader.git >> 
 cd news-reader >> 
 python -m venv venv 
 source venv/bin/activate   (Linux or  macOS) or 
