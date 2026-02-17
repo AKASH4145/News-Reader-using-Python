@@ -1,4 +1,4 @@
-##  AI News Reader using Python
+##  Python News Reader using API
 
 This project is a Python-based news reader that fetches the latest headlines from online news sources and converts them into readable or spoken output.  
 It demonstrates API integration and data processing in Python.
@@ -9,9 +9,7 @@ It demonstrates API integration and data processing in Python.
 
 - Fetch latest news headlines  
 - Filter news by category or keyword  
-- Clean and parse news content  
-- (Optional) Convert news text to speech  
-- Simple CLI or basic UI  
+- Clean and parse news content     
 
 ---
 
@@ -29,11 +27,7 @@ It demonstrates API integration and data processing in Python.
 ```text
 news-reader/
 ├── main.py              # App entry point
-├── config.py            # API keys / configuration
-├── fetch_news.py        # News API logic
-├── reader.py            # News formatting / TTS logic
-├── requirements.txt
-├── .gitignore
+├──news_req.txt
 └── README.md
 ```
 
